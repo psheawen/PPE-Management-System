@@ -1,0 +1,6 @@
+itemCode, supplierCode/hospitalCode, quantityReceived/quantityDistributed, date-time
+HC, #SUP00001, +40, 2025-03-22 08:49:55
+MS, #SUP00002, +20, 2025-03-22 08:51:08
+GL, #SUP00003, +10, 2025-03-22 08:51:20
+FS, #HOSP00002, -80, 2025-03-22 08:51:48
+GL, #HOSP00001, -95, 2025-03-22 08:52:03

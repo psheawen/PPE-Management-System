@@ -1,0 +1,3 @@
+userType, CRUDmanager, CRUDstaff, InitializeInventory, ResetInventory, ResetSystem
+manager, deny, deny, allow, deny, deny
+staff, deny, deny, allow, deny, deny

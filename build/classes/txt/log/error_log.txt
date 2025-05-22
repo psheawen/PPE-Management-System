@@ -1,0 +1,10 @@
+[2025-03-22 08:59:47] User {staff - #STF588a3 - Staff A} failed to update inventory
+	ErrorMsg: PPE Item 'Gown' is not distributed -> PPE Item Handling Error: Not enough stock to distribute
+[2025-03-22 14:52:15] User with ID '#SAM001' failed to logged in
+	ErrorMsg: Incorrect Login Credentials
+[2025-03-22 14:52:36] User with ID '#SAM001' failed to logged in
+	ErrorMsg: Incorrect Login Credentials
+[2025-03-22 14:52:47] User with ID '#SAM001' failed to logged in
+	ErrorMsg: Incorrect Login Credentials
+[2025-03-22 17:45:02] User with ID '#MNG30358' failed to logged in
+	ErrorMsg: Incorrect Login Credentials

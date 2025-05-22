@@ -1,0 +1,4 @@
+hospitalCode, hospitalName, hospitalContact, hospitalAddress
+#HOSP00001, Hospital A, 019-8765432, Jalan 456#|Taman 123
+#HOSP00002, Hospital B, 019-8765432, Jalan 456#|Taman 123
+#HOSP00003, Hospital C, 019-8765432, Jalan 456#|Taman 123

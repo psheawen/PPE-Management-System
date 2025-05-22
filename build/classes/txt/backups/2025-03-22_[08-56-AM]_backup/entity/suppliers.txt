@@ -1,0 +1,4 @@
+supplierCode, supplierName, supplierContact, supplierAddress
+#SUP00001, Supplier 01, 012-3456789, Jalan ABC#|Taman DEF
+#SUP00002, Supplier 02, 012-3456789, Jalan ABC#|Taman DEF
+#SUP00003, Supplier 03, 012-3456789, Jalan ABC#|Taman DEF

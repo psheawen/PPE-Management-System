@@ -1,0 +1,2 @@
+userId, userName, userPwd, userType
+#SADM001, Super Admin, SuperAdmin#12345, super admin

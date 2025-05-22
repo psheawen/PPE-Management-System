@@ -1,0 +1,43 @@
+[2025-03-22 08:56:04] User {super admin - #SADM001 - Super Admin} reset the system
+[2025-03-22 08:56:13] User {super admin - #SADM001 - Super Admin} created a new 'staff' account, User {#STF588a3 - Staff A}
+[2025-03-22 08:56:20] User {super admin - #SADM001 - Super Admin} created a new 'staff' account, User {#STF6408d - Staff B}
+[2025-03-22 08:56:26] User {super admin - #SADM001 - Super Admin} created a new 'staff' account, User {#STF42eab - Staff C}
+[2025-03-22 08:56:34] User {super admin - #SADM001 - Super Admin} created a new 'manager' account, User {#MNG30358 - Manager A}
+[2025-03-22 08:56:41] User {super admin - #SADM001 - Super Admin} created a new 'manager' account, User {#MNGb93b6 - Manager B}
+[2025-03-22 08:56:49] User {super admin - #SADM001 - Super Admin} created a new 'manager' account, User {#MNGf4a72 - Manager C}
+[2025-03-22 08:56:54] User {super admin - #SADM001 - Super Admin} logged out
+[2025-03-22 08:57:16] User {staff - #STF588a3 - Staff A} logged in
+[2025-03-22 08:57:57] User {staff - #STF588a3 - Staff A} added new Supplier {#SUP00001 - Supplier A}
+[2025-03-22 08:58:01] User {staff - #STF588a3 - Staff A} added new Supplier {#SUP00002 - Supplier B}
+[2025-03-22 08:58:04] User {staff - #STF588a3 - Staff A} added new Supplier {#SUP00003 - Supplier C}
+[2025-03-22 08:58:25] User {staff - #STF588a3 - Staff A} added new Hospital {#HOSP00001 - Hospital A}
+[2025-03-22 08:58:29] User {staff - #STF588a3 - Staff A} added new Hospital {#HOSP00002 - Hospital B}
+[2025-03-22 08:58:33] User {staff - #STF588a3 - Staff A} added new Hospital {#HOSP00003 - Hospital C}
+[2025-03-22 08:58:41] User {staff - #STF588a3 - Staff A} initialized the inventory
+[2025-03-22 08:58:46] User {staff - #STF588a3 - Staff A} assigned Supplier {#SUP00001 - Supplier A} to PPE Item {HC - Head Cover}
+[2025-03-22 08:58:51] User {staff - #STF588a3 - Staff A} assigned Supplier {#SUP00001 - Supplier A} to PPE Item {MS - Mask}
+[2025-03-22 08:58:54] User {staff - #STF588a3 - Staff A} assigned Supplier {#SUP00001 - Supplier A} to PPE Item {GW - Gown}
+[2025-03-22 08:58:59] User {staff - #STF588a3 - Staff A} assigned Supplier {#SUP00002 - Supplier B} to PPE Item {FS - Face Shield}
+[2025-03-22 08:59:04] User {staff - #STF588a3 - Staff A} assigned Supplier {#SUP00003 - Supplier C} to PPE Item {GL - Gloves}
+[2025-03-22 08:59:13] User {staff - #STF588a3 - Staff A} updated inventory: PPE Item 'Head Cover' new stock is received from Supplier 'Supplier A'! (+ 50 boxes)
+[2025-03-22 08:59:24] User {staff - #STF588a3 - Staff A} updated inventory: PPE Item 'Gloves' new stock is received from Supplier 'Supplier C'! (+ 30 boxes)
+[2025-03-22 08:59:37] User {staff - #STF588a3 - Staff A} updated inventory: PPE Item 'Mask' is distributed to Hospital 'Hospital B'! (- 80 boxes)
+[2025-03-22 09:00:07] User {staff - #STF588a3 - Staff A} updated inventory: PPE Item 'Gown' is distributed to Hospital 'Hospital A'! (- 90 boxes)
+[2025-03-22 09:00:26] User {staff - #STF588a3 - Staff A} updated low stock resolution status for PPE Item {MS - Mask}
+[2025-03-22 09:00:35] User {staff - #STF588a3 - Staff A} logged out
+[2025-03-22 09:00:56] User {manager - #MNG30358 - Manager A} logged in
+[2025-03-22 09:05:48] User {manager - #MNG30358 - Manager A} logged out
+[2025-03-22 09:06:15] User {manager - #MNG30358 - Manager A} logged in
+[2025-03-22 09:06:31] User {manager - #MNG30358 - Manager A} logged out
+[2025-03-22 09:07:52] User {manager - #MNG30358 - Manager A} logged in
+[2025-03-22 09:09:19] User {manager - #MNG30358 - Manager A} modified name for User {staff - #STF588a3 - Staff A}
+[2025-03-22 09:09:25] User {manager - #MNG30358 - Manager A} modified name for User {staff - #STF588a3 - Wi}
+[2025-03-22 09:09:37] User {manager - #MNG30358 - Manager A} logged out
+[2025-03-22 14:52:52] User {super admin - #SADM001 - Super Admin} logged in
+[2025-03-22 14:53:18] User {super admin - #SADM001 - Super Admin} logged out
+[2025-03-22 17:32:32] User {super admin - #SADM001 - Super Admin} logged in
+[2025-03-22 17:44:43] User {#SADM001 - super admin - Super Admin} has updated user permissions
+[2025-03-22 17:44:44] User {super admin - #SADM001 - Super Admin} logged out
+[2025-03-22 17:45:12] User {manager - #MNG30358 - Manager A} logged in
+[2025-03-22 17:45:34] User {manager - #MNG30358 - Manager A} logged out
+[2025-05-22 18:29:31] User {super admin - #SADM001 - Super Admin} logged in

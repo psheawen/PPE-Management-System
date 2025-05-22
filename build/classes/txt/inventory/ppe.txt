@@ -1,0 +1,7 @@
+itemCode, itemName, supplierCode, stockQuantity, lastRestockDateTime
+HC, Head Cover, #SUP00001, 150, 2025-03-22 08:58:41
+FS, Face Shield, #SUP00002, 100, 2025-03-22 08:58:41
+MS, Mask, #SUP00001, 20, 2025-03-22 08:58:41
+GL, Gloves, #SUP00003, 130, 2025-03-22 08:58:41
+GW, Gown, #SUP00001, 10, 2025-03-22 08:58:41
+SC, Shoe Covers, , 100, 2025-03-22 08:58:41

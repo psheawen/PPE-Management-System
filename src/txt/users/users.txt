@@ -1,0 +1,7 @@
+userId, userName, userPwd, userType, joinedDateTime
+#STF588a3, Staff A, $TR#64hz, staff, 2025-03-22 08:56:13
+#STF6408d, Staff B, crX$2Fex, staff, 2025-03-22 08:56:20
+#STF42eab, Staff C, fHaa3%Xm, staff, 2025-03-22 08:56:26
+#MNG30358, Manager A, cIgy3c@U, manager, 2025-03-22 08:56:34
+#MNGb93b6, Manager B, g$J2UlCF, manager, 2025-03-22 08:56:41
+#MNGf4a72, Manager C, !PhNFU9n, manager, 2025-03-22 08:56:49

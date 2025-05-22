@@ -1,0 +1,4 @@
+hospitalCode, hospitalName, hospitalContact, hospitalAddress
+#HOSP00001, Hospital 01, 012-3456789, Jalan DEF#|Taman ABC
+#HOSP00002, Hospital 02, 012-3456789, Jalan DEF#|Taman ABC
+#HOSP00003, Hospital 03, 012-3456789, Jalan DEF#|Taman ABC

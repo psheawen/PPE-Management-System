@@ -1,0 +1,2 @@
+[2025-03-22 08:56:04] Backup directory 'src/txt/backups/2025-03-22_[08-56-AM]_backup/' is created!
+[2025-03-22 08:56:04] 'rbc.txt' is backed up!

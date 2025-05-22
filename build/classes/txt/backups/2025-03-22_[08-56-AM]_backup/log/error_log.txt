@@ -1,0 +1,4 @@
+[2025-03-22 08:41:11] User {super admin - #SADM001 - Super Admin} failed to initialize inventory
+	ErrorMsg: PPE inventory is not initialized, 'supplier.txt' needs to be created to initialize inventory
+[2025-03-22 08:46:47] User {staff - #STF4e98b - Staff 01} failed to add new Hospital {Hospital 01, 012-3456789, Jalan DEF, Taman ABC}
+	ErrorMsg: Hospital 'Hospital 01' is not created -> Hospital Handling Error: Hospital name must be unique
